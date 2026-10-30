@@ -1,0 +1,51 @@
+{
+  "next_task_id": 2,
+  "vision_horizon_4_5": "Become a high-competence Mechatronics & Power Electronics Engineer working internationally.",
+  "top_5_goals": [
+    "1. Pass German C1 certification",
+    "2. Pass Chinese hsk4 cirtification"
+  ],
+  "daily_autopilot_habits": [
+    "Drink 200ml of warm water after wake up.",
+    "Learn 10 German words",
+    "Learn 5 chinese words",
+    "Stop looking at screen 1h before bed/after 9:00p.m"
+  ],
+  "habits_state": {
+    "date": "2026-10-31",
+    "completed": []
+  },
+  "habit_history": {
+    "2026-10-30": {
+      "date": "2026-10-30",
+      "completed": [
+        "Stop looking at screen 1h before bed/after 9:00p.m"
+      ],
+      "total": 4,
+      "completed_count": 1,
+      "rate": 0.25,
+      "notes": "",
+      "logged_at": "2026-10-30 23:56:49"
+    }
+  },
+  "habit_settings": {
+    "review_time": "21:00",
+    "enable_notifications": true,
+    "last_notified_date": "2026-10-30"
+  },
+  "active_projects": [
+    "DIY Power Bank - Kaboom"
+  ],
+  "weights": {
+    "w1": 1.0,
+    "w2": 1.0,
+    "w3": 1.0,
+    "w4": 1.0
+  },
+  "active_tasks": [],
+  "waiting_next_month": [],
+  "fast_track_inbox": [],
+  "avoid_25_5_list": [],
+  "dropped_90_rule": [],
+  "rcf_history": []
+}
